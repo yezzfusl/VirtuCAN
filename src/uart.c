@@ -1,4 +1,4 @@
-#include "uart.h"
+#include "../inc/uart.h"
 #include <avr/io.h>
 #include <util/delay.h>
 

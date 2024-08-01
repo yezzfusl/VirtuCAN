@@ -1,7 +1,7 @@
 #include <avr/io.h>
 #include <util/delay.h>
-#include "uart.h"
-#include "can_protocol.h"
+#include "../inc/uart.h"
+#include "../inc/can_protocol.h"
 
 #define BAUD_RATE 9600
 #define LED_PIN PB5

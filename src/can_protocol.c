@@ -1,5 +1,5 @@
-#include "can_protocol.h"
-#include "uart.h"
+#include "../inc/can_protocol.h"
+#include "../inc/uart.h"
 #include <string.h>
 #include <util/crc16.h>
 
